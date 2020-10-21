@@ -75,6 +75,7 @@ resource "fastly_service_dictionary_items_v1" "tf_provider_namespaces_dictionary
     "huaweicloud" : "huaweicloud/huaweicloud"
     "huaweicloudstack" : "huaweicloud/huaweicloudstack"
     "icinga2" : "Icinga/icinga2"
+    "ilert" : "iLert/ilert"
     "lacework" : "lacework/lacework"
     "launchdarkly" : "launchdarkly/launchdarkly"
     "linode" : "linode/linode"
